@@ -29,24 +29,24 @@ poetry install
 ```
 This will set up a virtual environment and install all the necessary dependencies as specified in the pyproject.toml file.  
 
-### Notebooks
+## Notebooks
 The analysis and modeling are segmented into Jupyter notebooks, each focusing on a particular stage of the project. To replicate our process or dive deeper into the analysis, refer to the `reference` folder, which contains tutorials and additional documentation.
 
-### Models
+## Models
 
-**<TBA>**
+**TBA**
 
-### Classification
+## Classification
 
-**<TBA>**
+**TBA**
 
-### Contribution
+## Contribution
 This project was worked on by: Colin, Valeria, and Michael, as can been seen in the credits in the `pyproject.toml`. These will be the only contributors for this fork of the repository, but you are more than welcome to make your own fork and contribute under the guidance of the MIT license.
 
 ### License
 This project is released under the MIT License. Please see `LICENSE` for more information
 
-### Acknowledgements
+## Acknowledgements
 - We would like to thank the NOAA for providing the [Hurricanes and Typhoons Dataset](https://www.kaggle.com/datasets/noaa/hurricane-database)
 - A shoutout to all 3 of the main contributors for working on this data analysis
 - Thank you to Dr. Feng for assigning this project and guidance throughout the project
